@@ -1,0 +1,378 @@
+{
+  "amendment": 1,
+  "registered_on": "2026-10-26T21:01:26-04:00",
+  "amends": "confirmatory_registration.json (2026-10-26T20:42:57-04:00), kept unchanged",
+  "made_before_scores": true,
+  "source": "plate metadata only; no expression data or scores from plates 4, 5, 7-9 were read",
+  "change": "All compounds are normalized to their parent compound (a trailing parenthetical salt or solvate is dropped), for every compound and in the whole pipeline, including the key of the shared drug response g. Reason: a salt or solvate changes the solid form, not the molecule that reaches the cells after dissolution in DMSO.",
+  "disclosed": "The exploratory result for trametinib on plates 1-3 and 10-12 was seen before this amendment (treated-well reference: 0.47 to 0.50). The rule is general and applied to all compounds to avoid a drug-specific choice.",
+  "renamed": [
+    {
+      "drug": "(R)-Verapamil (hydrochloride)",
+      "parent": "(R)-Verapamil"
+    },
+    {
+      "drug": "Almonertinib (hydrochloride)",
+      "parent": "Almonertinib"
+    },
+    {
+      "drug": "Almonertinib (mesylate)",
+      "parent": "Almonertinib"
+    },
+    {
+      "drug": "Atazanavir (sulfate)",
+      "parent": "Atazanavir"
+    },
+    {
+      "drug": "Azithromycin (hydrate)",
+      "parent": "Azithromycin"
+    },
+    {
+      "drug": "Balsalazide (sodium hydrate)",
+      "parent": "Balsalazide"
+    },
+    {
+      "drug": "Belumosudil (mesylate)",
+      "parent": "Belumosudil"
+    },
+    {
+      "drug": "Benproperine (phosphate)",
+      "parent": "Benproperine"
+    },
+    {
+      "drug": "Benztropine (mesylate)",
+      "parent": "Benztropine"
+    },
+    {
+      "drug": "Berbamine (dihydrochloride)",
+      "parent": "Berbamine"
+    },
+    {
+      "drug": "Berberine (chloride hydrate)",
+      "parent": "Berberine"
+    },
+    {
+      "drug": "Bestatin (hydrochloride)",
+      "parent": "Bestatin"
+    },
+    {
+      "drug": "Bisoprolol (hemifumarate)",
+      "parent": "Bisoprolol"
+    },
+    {
+      "drug": "Bosentan (hydrate)",
+      "parent": "Bosentan"
+    },
+    {
+      "drug": "Cabozantinib (S-malate)",
+      "parent": "Cabozantinib"
+    },
+    {
+      "drug": "Canagliflozin (hemihydrate)",
+      "parent": "Canagliflozin"
+    },
+    {
+      "drug": "Carbidopa (monohydrate)",
+      "parent": "Carbidopa"
+    },
+    {
+      "drug": "Chlorhexidine (diacetate)",
+      "parent": "Chlorhexidine"
+    },
+    {
+      "drug": "Citalopram (hydrobromide)",
+      "parent": "Citalopram"
+    },
+    {
+      "drug": "Clonidine (hydrochloride)",
+      "parent": "Clonidine"
+    },
+    {
+      "drug": "Cloxacillin (sodium)",
+      "parent": "Cloxacillin"
+    },
+    {
+      "drug": "Crizotinib (hydrochloride)",
+      "parent": "Crizotinib"
+    },
+    {
+      "drug": "Cysteamine (hydrochloride)",
+      "parent": "Cysteamine"
+    },
+    {
+      "drug": "Cytarabine (hydrochloride)",
+      "parent": "Cytarabine"
+    },
+    {
+      "drug": "Docetaxel (Trihydrate)",
+      "parent": "Docetaxel"
+    },
+    {
+      "drug": "Dorzolamide (hydrochloride)",
+      "parent": "Dorzolamide"
+    },
+    {
+      "drug": "Doxorubicin (hydrochloride)",
+      "parent": "Doxorubicin"
+    },
+    {
+      "drug": "Doxycycline (monohydrate)",
+      "parent": "Doxycycline"
+    },
+    {
+      "drug": "Edoxaban (tosylate monohydrate)",
+      "parent": "Edoxaban"
+    },
+    {
+      "drug": "Entecavir (monohydrate)",
+      "parent": "Entecavir"
+    },
+    {
+      "drug": "Epirubicin (hydrochloride)",
+      "parent": "Epirubicin"
+    },
+    {
+      "drug": "Erdafitinib ",
+      "parent": "Erdafitinib"
+    },
+    {
+      "drug": "Esmolol (hydrochloride)",
+      "parent": "Esmolol"
+    },
+    {
+      "drug": "Estrone sulfate (potassium)",
+      "parent": "Estrone sulfate"
+    },
+    {
+      "drug": "Fedratinib (hydrochloride hydrate)",
+      "parent": "Fedratinib"
+    },
+    {
+      "drug": "Fingolimod (hydrochloride)",
+      "parent": "Fingolimod"
+    },
+    {
+      "drug": "Flumatinib (mesylate)",
+      "parent": "Flumatinib"
+    },
+    {
+      "drug": "Fluvoxamine (maleate)",
+      "parent": "Fluvoxamine"
+    },
+    {
+      "drug": "Fostamatinib (disodium hexahydrate)",
+      "parent": "Fostamatinib"
+    },
+    {
+      "drug": "Gallic acid (hydrate)",
+      "parent": "Gallic acid"
+    },
+    {
+      "drug": "Goserelin (acetate)",
+      "parent": "Goserelin"
+    },
+    {
+      "drug": "Idarubicin (hydrochloride)",
+      "parent": "Idarubicin"
+    },
+    {
+      "drug": "Imiquimod (hydrochloride)",
+      "parent": "Imiquimod"
+    },
+    {
+      "drug": "Imiquimod (maleate)",
+      "parent": "Imiquimod"
+    },
+    {
+      "drug": "Indacaterol (maleate)",
+      "parent": "Indacaterol"
+    },
+    {
+      "drug": "Irinotecan (hydrochloride)",
+      "parent": "Irinotecan"
+    },
+    {
+      "drug": "Ivabradine (hydrochloride)",
+      "parent": "Ivabradine"
+    },
+    {
+      "drug": "L-Eflornithine (monohydrochloride)",
+      "parent": "L-Eflornithine"
+    },
+    {
+      "drug": "L-Thyroxine (sodium salt pentahydrate)",
+      "parent": "L-Thyroxine"
+    },
+    {
+      "drug": "LY-2584702 (tosylate salt)",
+      "parent": "LY-2584702"
+    },
+    {
+      "drug": "Lactate (calcium)",
+      "parent": "Lactate"
+    },
+    {
+      "drug": "Lenalidomide (hemihydrate)",
+      "parent": "Lenalidomide"
+    },
+    {
+      "drug": "Levobupivacaine (hydrochloride)",
+      "parent": "Levobupivacaine"
+    },
+    {
+      "drug": "Lidocaine (hydrochloride)",
+      "parent": "Lidocaine"
+    },
+    {
+      "drug": "Loperamide (hydrochloride)",
+      "parent": "Loperamide"
+    },
+    {
+      "drug": "Lumateperone (tosylate)",
+      "parent": "Lumateperone"
+    },
+    {
+      "drug": "Methyl aminolevulinate (hydrochloride)",
+      "parent": "Methyl aminolevulinate"
+    },
+    {
+      "drug": "Mitoxantrone (dihydrochloride)",
+      "parent": "Mitoxantrone"
+    },
+    {
+      "drug": "Nafamostat (mesylate)",
+      "parent": "Nafamostat"
+    },
+    {
+      "drug": "Neratinib (maleate)",
+      "parent": "Neratinib"
+    },
+    {
+      "drug": "Niclosamide (olamine)",
+      "parent": "Niclosamide"
+    },
+    {
+      "drug": "Norepinephrine (hydrochloride)",
+      "parent": "Norepinephrine"
+    },
+    {
+      "drug": "Omeprazole (sodium)",
+      "parent": "Omeprazole"
+    },
+    {
+      "drug": "Osimertinib (mesylate)",
+      "parent": "Osimertinib"
+    },
+    {
+      "drug": "Ouabain (Octahydrate)",
+      "parent": "Ouabain"
+    },
+    {
+      "drug": "Palmatine (chloride)",
+      "parent": "Palmatine"
+    },
+    {
+      "drug": "Pasireotide (acetate)",
+      "parent": "Pasireotide"
+    },
+    {
+      "drug": "Pentamidine (isethionate)",
+      "parent": "Pentamidine"
+    },
+    {
+      "drug": "Perindopril (erbumine)",
+      "parent": "Perindopril"
+    },
+    {
+      "drug": "Pexidartinib (hydrochloride)",
+      "parent": "Pexidartinib"
+    },
+    {
+      "drug": "Phenylephrine (hydrochloride)",
+      "parent": "Phenylephrine"
+    },
+    {
+      "drug": "Phenytoin (sodium)",
+      "parent": "Phenytoin"
+    },
+    {
+      "drug": "Pitavastatin (Calcium)",
+      "parent": "Pitavastatin"
+    },
+    {
+      "drug": "Pravastatin (sodium)",
+      "parent": "Pravastatin"
+    },
+    {
+      "drug": "Procainamide (hydrochloride)",
+      "parent": "Procainamide"
+    },
+    {
+      "drug": "Pyridoxine (hydrochloride)",
+      "parent": "Pyridoxine"
+    },
+    {
+      "drug": "Quinidine (15% dihydroquinidine)",
+      "parent": "Quinidine"
+    },
+    {
+      "drug": "Rimonabant (Hydrochloride)",
+      "parent": "Rimonabant"
+    },
+    {
+      "drug": "Ropivacaine (hydrochloride monohydrate)",
+      "parent": "Ropivacaine"
+    },
+    {
+      "drug": "Rucaparib (phosphate)",
+      "parent": "Rucaparib"
+    },
+    {
+      "drug": "Rutin (trihydrate)",
+      "parent": "Rutin"
+    },
+    {
+      "drug": "S-Adenosyl-L-methionine (disulfate tosylate)",
+      "parent": "S-Adenosyl-L-methionine"
+    },
+    {
+      "drug": "Selinexor ",
+      "parent": "Selinexor"
+    },
+    {
+      "drug": "Sivelestat (sodium tetrahydrate)",
+      "parent": "Sivelestat"
+    },
+    {
+      "drug": "Tetracycline (hydrochloride)",
+      "parent": "Tetracycline"
+    },
+    {
+      "drug": "Tirabrutinib (hydrochloride)",
+      "parent": "Tirabrutinib"
+    },
+    {
+      "drug": "Tofacitinib (citrate)",
+      "parent": "Tofacitinib"
+    },
+    {
+      "drug": "Topotecan (hydrochloride)",
+      "parent": "Topotecan"
+    },
+    {
+      "drug": "Trametinib (DMSO_TF solvate)",
+      "parent": "Trametinib"
+    },
+    {
+      "drug": "Vinblastine (sulfate)",
+      "parent": "Vinblastine"
+    }
+  ],
+  "dose_column": "drugname_drugconc",
+  "eligible_drugs": [
+    "Adagrasib",
+    "Trametinib"
+  ],
+  "test": "Fewer than three eligible drugs -> one pooled test. Carrier sets overlap (KRAS G12C lines are also MAPK carriers), so for each carrier line the differences are averaged over the eligible drugs for which it is a carrier, and the one-sided Wilcoxon test runs over unique carrier lines (p<0.05; treated-well reference primary, DMSO reported). A drug that gets no g from disjoint halves after normalization is reported as not testable and the test falls back to the remaining drug(s).",
+  "known_issue": "Trametinib differs strongly between plates 1-3 and 10-12 at the same dose (Limitation 27); lot not known."
+}

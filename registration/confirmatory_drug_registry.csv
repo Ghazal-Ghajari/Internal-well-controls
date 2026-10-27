@@ -1,0 +1,16 @@
+drug,variant,plates,new_plates,n_positions,positions,n_confirmatory_pairs,eligible
+Afatinib,EGFR activating,"plate1,plate2,plate3,plate7,plate8,plate9,plate13","plate7,plate8,plate9",5,plate1:C12;plate2:C12;plate3:C12;plate7:B10;plate8:B10;plate9:B10;plate13:C10;plate13:D10;plate13:E10,18,True
+Almonertinib (mesylate),EGFR activating,"plate7,plate8,plate9,plate13","plate7,plate8,plate9",4,plate7:A11;plate8:A11;plate9:A11;plate13:C5;plate13:D5;plate13:E5,9,True
+Adagrasib,KRAS G12C,"plate1,plate2,plate3,plate4,plate5,plate6,plate7,plate8,plate9,plate10,plate11,plate12,plate13,plate14","plate4,plate5,plate7,plate8,plate9",4,plate1:H10;plate2:H10;plate3:H10;plate4:H10;plate5:H10;plate6:H10;plate7:G10;plate7:H10;plate8:G10;plate8:H10;plate9:G10;plate9:H10;plate10:H10;plate11:H10;plate12:H10;plate13:B10;plate13:B9;plate14:H10,52,True
+Dabrafenib,BRAF V600,"plate1,plate2,plate3",,1,plate1:C7;plate2:C7;plate3:C7,0,False
+Encorafenib,BRAF V600,"plate1,plate2,plate3",,1,plate1:C8;plate2:C8;plate3:C8,0,False
+Vemurafenib,BRAF V600,"plate1,plate2,plate3",,1,plate1:B9;plate2:B9;plate3:B9,0,False
+Almonertinib (hydrochloride),EGFR activating,"plate4,plate5,plate6,plate14","plate4,plate5",1,plate4:D7;plate5:D7;plate6:D7;plate14:D7,0,False
+Erlotinib,EGFR activating,"plate7,plate8,plate9","plate7,plate8,plate9",1,plate7:C4;plate8:C4;plate9:C4,0,False
+Gefitinib,EGFR activating,"plate10,plate11,plate12",,1,plate10:H3;plate11:H3;plate12:H3,0,False
+Osimertinib (mesylate),EGFR activating,"plate10,plate11,plate12",,1,plate10:C10;plate11:C10;plate12:C10,0,False
+Binimetinib,MAPK active,"plate1,plate2,plate3,plate10,plate11,plate12",,2,plate1:B12;plate2:B12;plate3:B12;plate10:H5;plate11:H5;plate12:H5,0,False
+Cobimetinib,MAPK active,"plate7,plate8,plate9","plate7,plate8,plate9",1,plate7:D9;plate8:D9;plate9:D9,0,False
+Trametinib,MAPK active,"plate1,plate2,plate3,plate10,plate11,plate12",,2,plate1:C11;plate2:C11;plate3:C11;plate10:F9;plate11:F9;plate12:F9,0,False
+Trametinib (DMSO_TF solvate),MAPK active,"plate7,plate8,plate9","plate7,plate8,plate9",1,plate7:C2;plate8:C2;plate9:C2,0,False
+Alpelisib,PIK3CA hotspot,"plate1,plate2,plate3",,1,plate1:A10;plate2:A10;plate3:A10,0,False

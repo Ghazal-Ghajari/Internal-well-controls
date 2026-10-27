@@ -1,0 +1,14 @@
+parent,variant,source_names,plates,n_positions,n_confirmatory_pairs,eligible
+Afatinib,EGFR activating,Afatinib,"plate1,plate2,plate3,plate7,plate8,plate9,plate13",5,18,True
+Almonertinib,EGFR activating,Almonertinib (hydrochloride) | Almonertinib (mesylate),"plate4,plate5,plate6,plate7,plate8,plate9,plate13,plate14",5,27,True
+Adagrasib,KRAS G12C,Adagrasib,"plate1,plate2,plate3,plate4,plate5,plate6,plate7,plate8,plate9,plate10,plate11,plate12,plate13,plate14",4,52,True
+Trametinib,MAPK active,Trametinib | Trametinib (DMSO_TF solvate),"plate1,plate2,plate3,plate7,plate8,plate9,plate10,plate11,plate12",3,18,True
+Dabrafenib,BRAF V600,Dabrafenib,"plate1,plate2,plate3",1,0,False
+Encorafenib,BRAF V600,Encorafenib,"plate1,plate2,plate3",1,0,False
+Vemurafenib,BRAF V600,Vemurafenib,"plate1,plate2,plate3",1,0,False
+Erlotinib,EGFR activating,Erlotinib,"plate7,plate8,plate9",1,0,False
+Gefitinib,EGFR activating,Gefitinib,"plate10,plate11,plate12",1,0,False
+Osimertinib,EGFR activating,Osimertinib (mesylate),"plate10,plate11,plate12",1,0,False
+Binimetinib,MAPK active,Binimetinib,"plate1,plate2,plate3,plate10,plate11,plate12",2,0,False
+Cobimetinib,MAPK active,Cobimetinib,"plate7,plate8,plate9",1,0,False
+Alpelisib,PIK3CA hotspot,Alpelisib,"plate1,plate2,plate3",1,0,False

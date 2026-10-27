@@ -1,0 +1,17 @@
+{
+  "registered_on": "2026-10-26T20:42:57-04:00",
+  "source": "plate metadata only (sample -> well -> drug map); no expression data or scores were read",
+  "new_plates": [
+    "plate4",
+    "plate5",
+    "plate7",
+    "plate8",
+    "plate9"
+  ],
+  "eligible_drugs": [
+    "Adagrasib"
+  ],
+  "n_eligible": 1,
+  "rule": "eligible = targeted drug at >= 2 positions over the 14 plates with >= 1 pair at different wells on different plates that includes a new plate; EGFR excluded (no carriers). A drug that later gets no g from disjoint halves is reported as not testable, not dropped silently.",
+  "criterion": "per drug: carrier-line mean of (g+t disjoint - uncorrected), one-sided Wilcoxon over lines, p<0.05, treated-well reference primary; success if >= 2/3 of eligible drugs gain. If fewer than 3 eligible: one pooled test over the carrier lines of all eligible drugs; if 1, its own line-level test."
+}
