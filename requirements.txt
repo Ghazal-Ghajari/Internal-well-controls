@@ -1,0 +1,13 @@
+# Python 3.12.11
+numpy==2.3.5
+scipy==1.17.1
+pandas==3.0.2
+anndata==0.13.3
+scanpy==1.11.5
+harmonypy==0.0.10
+scikit-learn==1.7.2
+statsmodels==0.15.0
+matplotlib==3.11.2
+torch==2.5.1
+patsy
+jupyter
